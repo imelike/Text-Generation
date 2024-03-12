@@ -2,6 +2,10 @@
 
 ### References
 
+[What is a Data Pipeline?](https://www.alooma.com/blog/what-is-a-data-pipeline)
+
+[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
+
 [Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 
 [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
