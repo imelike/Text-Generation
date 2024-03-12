@@ -6,6 +6,10 @@
 
 [tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
 
+[Text classification from scratch](https://keras.io/examples/nlp/text_classification_from_scratch/)
+
+[Working with Keras preprocessing layers](https://keras.io/guides/preprocessing_layers/)
+
 [Character-level text generation with LSTM](https://keras.io/examples/generative/lstm_character_level_text_generation/)
 
 [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
